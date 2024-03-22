@@ -14,4 +14,4 @@
 
 
 ## 内容品
-・VVVF Radio本体・・・1
+・VVVF Radio本体　1
