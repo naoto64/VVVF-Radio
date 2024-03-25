@@ -1,5 +1,5 @@
 # VVVF-Radio
-![spectrum](./img/spectrum.jpg)
+![spectrum](./docs/img/spectrum.jpg)
 ## Overview
 A magnetic field sensor that allows you to hear the sound of a train's inverter. It has a built-in magnetic field sensor and amplifier, and has a volume control knob and line output. Because it is a line output, it can be directly connected to earphones, etc.
 
