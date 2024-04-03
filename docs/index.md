@@ -22,7 +22,7 @@
 ライン入力端子のあるICレコーダーの場合は、オーディオケーブル（両端が3.5mm ミニプラグのもの　別売）を接続します。
 
 ## サンプル音
-[227系東洋IGBT]([http://qiita.com](https://soundcloud.com/naoto64/227igbt?si=b2d0c10c16f74043993dc020d4651cc2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing))
+[227系東洋IGBT](https://soundcloud.com/naoto64/227igbt?si=b2d0c10c16f74043993dc020d4651cc2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 ## 注意
 マイク端子やスマートフォンとの接続はできません。 
