@@ -21,6 +21,10 @@
 オーディオ出力端子にイヤホンを接続します。音を聞く際は耳を傷めないよう音量に注意して下さい。
 ライン入力端子のあるICレコーダーの場合は、オーディオケーブル（両端が3.5mm ミニプラグのもの　別売）を接続します。
 
+## サンプル音
+
+https://soundcloud.com/naoto64/227igbt?si=b2d0c10c16f74043993dc020d4651cc2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+
 
 ## 注意
 マイク端子やスマートフォンとの接続はできません。 
