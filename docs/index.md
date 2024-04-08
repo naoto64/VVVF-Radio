@@ -17,7 +17,10 @@
 
 ## 購入
 この製品は以下のサイトから購入できます。  
-スイッチサイエンス - VVVF Radio
+[スイッチサイエンス - VVVF Radio](https://www.switch-science.com/products/9596 "VVVF Radio")
+
+#### お問い合わせフォーム
+[製品に関するお問い合わせ](https://forms.gle/Fn5E3byABXJ8P5sbA)
 
 ## 使用方法
 オーディオ出力端子にイヤホンを接続します。音を聞く際は耳を傷めないよう音量に注意して下さい。
