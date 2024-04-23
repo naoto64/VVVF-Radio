@@ -1,7 +1,5 @@
 # VVVF Radio
 
-<div hidden>モハラジオ</div>
-
 ![スペクトル](./img/spectrum.jpg)
 
 ## 概要
